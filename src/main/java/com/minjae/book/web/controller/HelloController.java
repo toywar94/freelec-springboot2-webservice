@@ -1,4 +1,4 @@
-package com.minjae.book.web;
+package com.minjae.book.web.controller;
 
 import com.minjae.book.web.dto.HelloResponseDTO;
 import lombok.Getter;

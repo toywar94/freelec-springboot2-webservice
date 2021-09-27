@@ -1,6 +1,6 @@
 package com.minjae.book.web;
 
-import com.minjae.book.web.HelloController;
+import com.minjae.book.web.controller.HelloController;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;
