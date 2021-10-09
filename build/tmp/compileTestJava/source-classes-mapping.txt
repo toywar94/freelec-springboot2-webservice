@@ -1,8 +1,8 @@
-com/minjae/book/web/dto/HelloResponseDtoTest.java
- com.minjae.book.web.dto.HelloResponseDtoTest
-com/minjae/book/web/HelloControllerTest.java
- com.minjae.book.web.HelloControllerTest
 com/minjae/book/web/posts/PostsRepositoryTest.java
  com.minjae.book.web.posts.PostsRepositoryTest
 com/minjae/book/web/controller/PostsApiControllerTest.java
  com.minjae.book.web.controller.PostsApiControllerTest
+com/minjae/book/web/HelloControllerTest.java
+ com.minjae.book.web.HelloControllerTest
+com/minjae/book/web/dto/HelloResponseDtoTest.java
+ com.minjae.book.web.dto.HelloResponseDtoTest
