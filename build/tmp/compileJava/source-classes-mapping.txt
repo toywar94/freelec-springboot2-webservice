@@ -1,16 +1,12 @@
-com/minjae/book/Application.java
- com.minjae.book.Application
-com/minjae/book/web/dto/HelloResponseDTO.java
- com.minjae.book.web.dto.HelloResponseDTO
-com/minjae/book/domain/posts/PostsRepository.java
- com.minjae.book.domain.posts.PostsRepository
-com/minjae/book/web/controller/HelloController.java
- com.minjae.book.web.controller.HelloController
+com/minjae/book/domain/posts/BaseTimeEntity.java
+ com.minjae.book.domain.posts.BaseTimeEntity
 com/minjae/book/web/dto/PostsUpdateRequestDto.java
  com.minjae.book.web.dto.PostsUpdateRequestDto
  com.minjae.book.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
-com/minjae/book/web/service/PostsService.java
- com.minjae.book.web.service.PostsService
+com/minjae/book/web/controller/HelloController.java
+ com.minjae.book.web.controller.HelloController
+com/minjae/book/web/dto/PostsListResponseDto.java
+ com.minjae.book.web.dto.PostsListResponseDto
 com/minjae/book/web/dto/PostsResponseDto.java
  com.minjae.book.web.dto.PostsResponseDto
 com/minjae/book/web/dto/PostsSaveRequestsDto.java
@@ -19,5 +15,13 @@ com/minjae/book/web/dto/PostsSaveRequestsDto.java
 com/minjae/book/domain/posts/Posts.java
  com.minjae.book.domain.posts.Posts
  com.minjae.book.domain.posts.Posts$PostsBuilder
+com/minjae/book/Application.java
+ com.minjae.book.Application
+com/minjae/book/web/dto/HelloResponseDTO.java
+ com.minjae.book.web.dto.HelloResponseDTO
+com/minjae/book/domain/posts/PostsRepository.java
+ com.minjae.book.domain.posts.PostsRepository
+com/minjae/book/web/service/PostsService.java
+ com.minjae.book.web.service.PostsService
 com/minjae/book/web/controller/PostsApiController.java
  com.minjae.book.web.controller.PostsApiController
