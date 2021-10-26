@@ -3,7 +3,6 @@ package com.minjae.book.web.posts;
 import com.minjae.book.domain.posts.Posts;
 import com.minjae.book.domain.posts.PostsRepository;
 import lombok.extern.slf4j.Slf4j;
-import org.junit.After;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;
